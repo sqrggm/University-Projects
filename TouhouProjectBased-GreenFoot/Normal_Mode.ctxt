@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Normal_Mode
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Normal_Mode\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Normal_Mode()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ scrollBackground()
+comment4.params=
+comment4.target=void\ drawBackground()
+comment5.params=
+comment5.target=void\ spawnEnemy()
+comment6.params=
+comment6.target=void\ SpawnShooterEnemy()
+comment7.params=
+comment7.target=void\ enemyDestroyed()
+comment8.params=
+comment8.target=void\ updateHUD()
+comment9.params=
+comment9.target=int\ getEnemiesDestroyed()
+numComments=10
